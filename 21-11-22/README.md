@@ -6,20 +6,22 @@
 
 ### Examples
 
-```addition(3, 2) ➞ 5```
+```js
+addition(3, 2) ➞ 5
 
-```addition(-3, -6) ➞ -9```
+addition(-3, -6) ➞ -9
 
-```addition(7, 3) ➞ 10``` 
+addition(7, 3) ➞ 10
+``` 
 
 #### Notes
 - Don't forget to ```return``` the result.
 - If you get stuck on a challenge, find help in the [Resorces](https://github.com/iTechUz/daily-algo/tree/main/21-11-22#resorces) tab.
  
 #### Resorces
-- [MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
-- [W3School](https://www.w3schools.com/jsref/jsref_return.asp)
-- [Learn freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/add-two-numbers-with-javascript/)
+1. [MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
+2. [W3School](https://www.w3schools.com/jsref/jsref_return.asp)
+3. [Learn freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/add-two-numbers-with-javascript/)
 
 *No solution available*
 
@@ -36,6 +38,8 @@
 ----
 
 ## 2. 
+
+|| Hello ||
 
 ### 3
 
