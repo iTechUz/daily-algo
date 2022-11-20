@@ -2,7 +2,7 @@
 
 ## 1. Return the Sum of Two Numbers
 
-Create a function that takes two numbers as arguments and returns their sum.
+**Create a function that takes two numbers as arguments and returns their sum.**
 
 ### Examples
 
@@ -21,13 +21,17 @@ Create a function that takes two numbers as arguments and returns their sum.
 - [W3School](https://www.w3schools.com/jsref/jsref_return.asp)
 - [Learn freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/add-two-numbers-with-javascript/)
 
-**Tarjima:**
+*No solution available*
 
-Ikki raqamni argument sifatida qabul qiladigan va ularning yig‘indisini qaytaruvchi funksiya yarating.
+***Tarjima:***
+
+**Ikki raqamni argument sifatida qabul qiladigan va ularning yig‘indisini qaytaruvchi funksiya yarating.**
 
 #### Eslatmalar
-- ``` return ```  bayonotidan foydalanishni unutmang
+- ```return```  bayonotidan foydalanishni unutmang
 - Agar muammoga duch kelsangiz, [Resorces](https://github.com/iTechUz/daily-algo/tree/main/21-11-22#resorces) bo'limidan izlab ko'ring.
+
+*Yechim mavjud emas*
 
 ----
 
