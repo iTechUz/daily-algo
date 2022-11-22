@@ -1,6 +1,6 @@
-# Return the Next Number from the Integer Passed
+## 4. Return the Next Number from the Integer Passed
 
-## 4-Create a function that takes a number as an argument, increments the number by +1 and returns the result.
+**Create a function that takes a number as an argument, increments the number by +1 andreturns the result.**
 
 ### Examples
 
@@ -12,6 +12,11 @@ addition(9) ➞ 10
 addition(-3) ➞ -2
 ```
 #### Notes
-- Don't forget to return the result.
-- If you get stuck on a challenge, find help in the Resources tab.
-- If you're really stuck, unlock solutions in the Solutions tab.
+- Don't forget to ```return``` the result.
+- If you get stuck on a challenge, find help in the **Resources** tab.
+
+--- 
+
+***Tarjima:***
+
+## 4. 

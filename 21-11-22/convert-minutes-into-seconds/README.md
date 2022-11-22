@@ -1,6 +1,6 @@
-## Convert Minutes into Seconds
+## 3. Convert Minutes into Seconds
 
-**3 Write a function that takes an integer minutes and converts it to seconds.**
+**Write a function that takes an integer minutes and converts it to seconds.**
 
  ### Examples
 
