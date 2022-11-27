@@ -16,7 +16,7 @@ cubes(10) ➞ 1000
 - Don't forget to ```return``` the result.
 - If you get stuck on a challenge, find help in the [Resorces](https://github.com/iTechUz/daily-algo/tree/main/21-11-22#resorces) tab.
 
-#### Resorsec
+#### Resources
 1. [Math.pow()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow#:~:text=Description-,The%20Math.,(%20Math%20has%20no%20constructor).)
 2. [The exponentiation operator (**)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation)
 3. [Arrow Function](https://www.w3schools.com/js/js_arrow_function.asp)
