@@ -1,273 +1,125 @@
-**1. Return the Sum of Two Numbers**
-   
-    `#algebra #math #number #language_fundamentals`
+**1.Convert Age to Days**
 
-**Create a function that takes two numbers as arguments and returns their sum.**
+`#algebra #algoritms #math`
+
+**Create a function that takes the age in years and returns the age in days.**
 
 **Examples**
+
 ```js
-addition(3, 2) ➞ 5
+calcAge(65) ➞ 23725
 
-addition(-3, -6) ➞ -9
+calcAge(0) ➞ 0
 
-addition(7, 3) ➞ 10
+calcAge(20) ➞ 7300
 ```
 **Notes**
-- Don't forget to return the result.
-- If you get stuck on a challenge, find help in the Resources tab.
-- If you're really stuck, unlock solutions in the Solutions tab.
+
+- Use 365 days as the length of a year for this challenge.
+- Ignore leap years and days between last birthday and now.
+- Expect only positive integer inputs.
 
 **Resources**
 - [something](https://link.com)
-- [source link](https://edabit.com/challenge/3LpBLgNRyaHMvNb4j)
-
-
----------------
-**Tarjima**
-**1. Return the Sum of Two Numbers**
-
-    `#algebra #math #number #language_fundamentals`
-
-
-**Ikki raqamni argument sifatida qabul qiladigan va ularning yig‘indisini qaytaradigan funksiya yarating.**
-
-**Misollar**
-``` js
-qoshish (3, 2) ➞ 5
-
-qoshish (-3, -6) ➞ -9
-
-qoshimcha (7, 3) ➞ 10
-```
-**Eslatmalar**
-- Natijani qaytarishni unutmang.
-- Agar qiyinchilikka duch kelsangiz, Resurslar yorlig'ida yordam toping.
-- Agar chindan ham tiqilib qolsangiz, Yechimlar ilovasida yechimlarni qulfdan chiqaring.
-
-**Resurslar**
-- [something](https://link.com)
-- [source link](https://edabit.com/challenge/3LpBLgNRyaHMvNb4j)
-
-<!-- --------------2-EXERSIZE-------------- -->
-
-
-**2.How Edabit Works**
-
-`#language_fundamentals #strings`
-
-**This is an introduction to how challenges on Edabit work. In the Code tab above you'll see a starter function that looks like this:**
-
-```js
-function hello() {
-
-}
-```
-
-**All you have to do is type return "hello edabit.com" between the curly braces { } and then click the Check button. If you did this correctly, the button will turn red and say SUBMIT FINAL. Click it and see what happens.**
-
-**Notes**
-
-- The returned string must be in all lowercase letters.
-- If you get stuck on a challenge, find help in the Resources tab.
-- If you're really stuck, unlock solutions in the Solutions tab.
-  
-**Resources**
-  - [something](https://link.com)
-  - [source link](https://edabit.com/challenge/ARr5tA458o2tC9FTN)
-
------------
-**Tarjima**
-
-**2. Edabit qanday ishlaydi**
-
-`#til_asoslari #strings`
-
-**Bu Edabit-dagi qiyinchiliklar qanday ishlashiga kirish. Yuqoridagi Kod yorlig'ida siz shunday ko'rinadigan boshlang'ich funktsiyasini ko'rasiz:**
-
-``` js
-funktsiya salom() {
-
-}
-```
-
-**Siz qilishingiz kerak bo'lgan narsa - jingalak qavslar orasiga "hello edabit.com" deb yozish va "Tekshirish" tugmasini bosing. Agar siz buni to'g'ri bajargan bo'lsangiz, tugma qizil rangga aylanadi va YUQORI YUKLASH deb aytadi. Unga bosing va nima bo'lishini ko'ring.**
-
-**Eslatmalar**
-
-- Qaytarilgan satr barcha kichik harflarda bo'lishi kerak.
-- Agar qiyinchilikka duch kelsangiz, Resurslar yorlig'ida yordam toping.
-- Agar chindan ham tiqilib qolsangiz, Yechimlar ilovasida yechimlarni qulfdan chiqaring.
-
-**Resurslar**
-  - [something](https://link.com)
-  - [source link](https://edabit.com/challenge/ARr5tA458o2tC9FTN)
-
-
-
-
-<!--------------------------------------- 3-EXERSIZE -------------------------------------->
-**3.Convert Minutes into Seconds**
-
-`#language_fundamentals #math #numbers`
-
-**Write a function that takes an integer minutes and converts it to seconds.**
-
-**Examples**
-
-```js
-convert(5) ➞ 300
-
-convert(3) ➞ 180
-
-convert(2) ➞ 120
-```
-
-**Notes**
-
-- Don't forget to return the result.
-- If you get stuck on a challenge, find help in the Resources tab.
-- If you're really stuck, unlock solutions in the Solutions tab.
-
-**Resources**
-  - [something](https://link.com)
-  - [source link](https://edabit.com/challenge/8q54MKnRrm89pSLmW)
-
-----------
-**3.Daqiqalarni soniyalarga aylantirish**
-
-` #til_asoslari #matematika #raqamlar `
-
-**Butun daqiqani oladigan va uni soniyalarga aylantiruvchi funksiyani yozing.**
-
-**Misollar**
-
-``` js
-aylantirish (5) ➞ 300
-
-aylantirish (3) ➞ 180
-
-aylantirish (2) ➞ 120
-```
-
-**Eslatmalar**
-
-- Natijani qaytarishni unutmang.
-- Agar qiyinchilikka duch kelsangiz, Resurslar yorlig'ida yordam toping.
-- Agar chindan ham tiqilib qolsangiz, Yechimlar ilovasida yechimlarni qulfdan chiqaring.
-
-**Resurslar**
-  - [something](https://link.com)
-  - [source link](https://edabit.com/challenge/8q54MKnRrm89pSLmW)
-
-
-<!------------------------------------- 4-EXERSIZE ------------------------------------------->
-**4.Return the Next Number from the Integer Passed**
-
-`#algebra #math #numbers`
-
-**Create a function that takes a number as an argument, increments the number by +1 and returns the result.**
-
-**Examples**
-
-```js
-addition(0) ➞ 1
-
-addition(9) ➞ 10
-
-addition(-3) ➞ -2
-```
-
-**Notes**
-
-- Don't forget to return the result.
-- If you get stuck on a challenge, find help in the Resources tab.
-- If you're really stuck, unlock solutions in the Solutions tab.
-
-**Resources**
-  - [something](https://link.com)
-  - [source link](https://edabit.com/challenge/NAQhEoxbofPidLxm9)
+- [source link](https://edabit.com/challenge/bL7hSc6Zh4zZJzGmw)
 
 -----
-**Tarjima**
 
-**4.Oʻtgan butun sondan keyingi raqamni qaytaring**
+**2.Buggy Code (Part 1)**
 
-` #algebra #matematika #sonlar'
+`#bugs #language_fundaments`
 
-**Argument sifatida raqamni oladigan, raqamni +1 ga oshiradigan va natijani qaytaradigan funksiya yarating.**
+**Fix the code in the code tab to pass this challenge (only syntax errors). Look at the examples below to get an idea of what the function should do.**
 
-**Misollar**
+**Examples**
 
-``` js
-qoshish (0) ➞ 1
+```js
+cubes(3) ➞ 27
 
-qoshish (9) ➞ 10
+cubes(5) ➞ 125
 
-qoshish (-3) ➞ -2
+cubes(10) ➞ 1000
 ```
+**Notes**
 
-**Eslatmalar**
+- READ EVERY WORD CAREFULLY, CHARACTER BY CHARACTER!
+- Don't overthink this challenge; it's not supposed to be hard.
 
-- Natijani qaytarishni unutmang.
-- Agar qiyinchilikka duch kelsangiz, Resurslar yorlig'ida yordam toping.
-- Agar chindan ham tiqilib qolsangiz, Yechimlar ilovasida yechimlarni qulfdan chiqaring.
+**Resources**
+- [something](https://link.com)
+- [source link](https://edabit.com/challenge/j7yQbF3J3rToHsDBP)
 
-**Resurslar**
-  - [bir narsa](https://link.com)
-  - [manba havola](https://edabit.com/challenge/NAQhEoxbofPidLxm9)
+-----
 
+**3.Return the First Element in an Array**
 
-<!-------------------------------------5-EXERSIZE----------------------------------------->
+`#arrays #language_fundaments`
 
-**5. Area of a Triangle**
-
-`#geometry #math #numbers`
-
-**Write a function that takes the base and height of a triangle and return its area.**
+**Create a function that takes an array containing only numbers and return the first element.**
 
 **Examples**
 ```js
-triArea(3, 2) ➞ 3
+getFirstValue([1, 2, 3]) ➞ 1
 
-triArea(7, 4) ➞ 14
+getFirstValue([80, 5, 100]) ➞ 80
 
-triArea(10, 10) ➞ 50
+getFirstValue([-500, 0, 50]) ➞ -500
+```
+**Notes**
+
+- The first element in an array always has an index of 0.
+
+**Resources**
+- [something](https://link.com)
+- [source link](https://edabit.com/challenge/QaApgtePE6QrCZ64o)
+ -----
+
+ **4.Power Calculator**
+
+`#math #numbers`
+
+**Create a function that takes voltage and current and returns the calculated power.**
+
+**Examples**
+```js
+circuitPower(230, 10) ➞ 2300
+
+circuitPower(110, 3) ➞ 330
+
+circuitPower(480, 20) ➞ 9600
 ```
 
 **Notes**
 
-- The area of a triangle is: (base * height) / 2
-- Don't forget to return the result.
-- If you get stuck on a challenge, find help in the Resources tab.
-- If you're really stuck, unlock solutions in the Solutions tab.
+- Requires basic calculation of electrical circuits (see Resources for info).
 
-**Resurslar**
-  - [bir narsa](https://link.com)
-  - [manba havola](https://edabit.com/challenge/3CaszbdZYGN4otQD8)
+**Resources**
+- [something](https://link.com)
+- [source link](https://edabit.com/challenge/wAdE9te55cowBLcPs)
 
------- 
-**5. Uchburchakning maydoni**
+---------
 
-`#geometriya #matematika #sonlar`
+**5.Convert Hours into Seconds**
 
-**Uchburchakning asosi va balandligini oladigan funksiyani yozing va uning maydonini qaytaring.**
+`#language_fundaments #math #numbers`
 
-**Misollar**
-``` js
-triArea(3, 2) ➞ 3
+**Write a function that converts hours into seconds.**
 
-triArea(7, 4) ➞ 14
+**Examples**
 
-triArea(10, 10) ➞ 50
+```js
+howManySeconds(2) ➞ 7200
+
+howManySeconds(10) ➞ 36000
+
+howManySeconds(24) ➞ 86400
 ```
 
-**Eslatmalar**
+**Notes**
 
-- Uchburchakning maydoni: (tayanch * balandlik) / 2
-- Natijani qaytarishni unutmang.
-- Agar qiyinchilikka duch kelsangiz, Resurslar yorlig'ida yordam toping.
-- Agar chindan ham tiqilib qolsangiz, Yechimlar ilovasida yechimlarni qulfdan chiqaring.
+- 60 seconds in a minute, 60 minutes in an hour
+- Don't forget to return your answer.
 
-**Resurslar**
-  - [bir narsa](https://link.com)
-  - [manba havola](https://edabit.com/challenge/3CaszbdZYGN4otQD8)
+**Resources**
+- [something](https://link.com)
+- [source link](https://edabit.com/challenge/6AnQqiEjkJdZrWhPS)
