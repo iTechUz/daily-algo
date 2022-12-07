@@ -75,7 +75,7 @@ REGEXP.test("") ➞ true
 
 ------
 
-**Tile Teamwork Tactics**
+**4.Tile Teamwork Tactics**
 
 `#conditions #language_fundaments #numbers #validation`
 
@@ -140,3 +140,189 @@ shiftToRight(-512, 10) ➞ -1
 **Resources**
 - [something](https://link.com)
 - [source link](https://edabit.com/challenge/ALGbgMWLuEdrh22fB)
+
+----------
+
+**6.Perimeters with a Catch**
+
+`#condition #geometry  #logic #math #numbers`
+
+**Write a function that takes a number and returns the perimeter of either a circle or a square. The input will be in the form (letter l, number num) where the letter will be either "s" for square, or "c" for circle, and the number will be the side of the square or the radius of the circle.**
+
+**Use the following formulas:**
+```
+Perimeter of a square: 4 * side.
+Perimeter of a circle: 6.28 * radius.
+The catch is you can only use arithmetic or comparison operators, which means:
+```
+
+- No if... else statements.
+- No objects.
+- No arrays.
+- No formatting methods, etc.
+- The goal is to write a short, branch-free piece of code.
+
+**Examples**
+
+```js
+perimeter("s", 7) ➞ 28
+
+perimeter("c", 4) ➞ 25.12
+
+perimeter("c", 9) ➞ 56.52
+```
+
+**Notes**
+
+- No rounding is needed.
+
+
+**Resources**
+- [something](https://link.com)
+- [source link](https://edabit.com/challenge/WEvqZTFcHeYzFn74c)
+
+--------
+
+**7.Find Number of Digits in Number**
+
+`#matematika #chisla #regex`
+
+**Create a function that will return an integer number corresponding to the amount of digits in the given integer num.**
+
+**Examples**
+```js
+num_of_digits(1000) ➞ 4
+
+num_of_digits(12) ➞ 2
+
+num_of_digits(1305981031) ➞ 10
+
+num_of_digits(0) ➞ 1
+```
+
+**Notes**
+
+- Try to solve this challenge without using strings!
+
+**Resources**
+- [something](https://link.com)
+- [source link](https://edabit.com/challenge/yFJzLfYghz7ZtsyAN)
+
+-----
+**8.Burglary Series (04): Add its Name**
+
+`#language_fundaments #objects`
+
+**Given three arguments ⁠— an object obj of the stolen items, the pets name and a value ⁠— return an object with that name and value in it (as key-value pairs).**
+
+**Examples**
+```js
+addName({}, "Brutus", 300) ➞ { Brutus: 300 }
+
+addName({ piano: 500 }, "Brutus", 400) ➞ { piano: 500, Brutus: 400 }
+
+addName({ piano: 500, stereo: 300 }, "Caligula", 440) ➞ { piano: 500, stereo: 300, Caligula: 440 }
+```
+
+**Notes**
+
+- The value argument will be a number.
+
+**Resources**
+- [something](https://link.com)
+- [source link](https://edabit.com/challenge/9KEKJG5PZTFmG3Zau)
+
+---------------
+
+**9.Derivative of a Function**
+
+`#math #numbers`
+
+**Create a function that takes numbers b and m as arguments and returns the derivative of the function f(x)=x^b with respect to x evaluated at x=m, where b and m are constants.**
+
+***Examples**
+```js
+derivative(1, 4) ➞ 1
+
+derivative(3, -2) ➞ 12
+
+derivative(4, -3) ➞ -108
+```
+**Notes**
+
+- ^ in the context of this challenge means "to the power of", also known as the "exponent" operator.
+
+**Resources**
+- [something](https://link.com)
+- [source link](https://edabit.com/challenge/Bxp6uGjgmf8TuG8Fe)
+---------------
+**10юWhich Generation Are You?**
+
+`#conditions #logic #objects #string`
+
+**Try finding your ancestors and offspring with code.**
+
+**Create a function that takes a number x and a character y ("m" for male, "f" for female), and returns the name of an ancestor (m/f) or descendant (m/f).**
+
+- If the number is negative, return the related ancestor.
+- If positive, return the related descendant.
+- You are generation 0. In the case of 0 (male or female), return "me!".
+
+**Examples**
+```js
+generation(2, "f") ➞ "granddaughter"
+
+generation(-3, "m") ➞ "great grandfather"
+
+generation(1, "f") ➞ "daughter"
+```
+**Notes**
+
+**Check the Resources tab for helpful hints.**
+
+<table>
+  <tr>
+    <th>Generation</th>
+    <th>Male</th>
+    <th>Female</th>
+  </tr>
+  <tr>
+    <td>-3</td>
+    <td>great grandfather</td>
+    <td>great grandmother</td>
+  </tr>
+  <tr>
+    <td>-2</td>
+    <td>grandfather</td>
+    <td>	grandmother</td>
+  </tr>
+  <tr>
+    <td>-1</td>
+    <td>father</td>
+    <td>mother</td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>me!</td>
+    <td>me!</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>son</td>
+    <td>daugther</td>
+  </tr>
+    <tr>
+    <td>2</td>
+    <td>grandson</td>
+    <td>granddaugther</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>great grandson</td>
+    <td>great granddaugther</td>
+  </tr>
+</table>
+
+**Resources**
+- [something](https://link.com)
+- [source link](https://edabit.com/challenge/48EJWLhF224na8po3)
