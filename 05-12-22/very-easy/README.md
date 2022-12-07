@@ -1,5 +1,3 @@
--------------------------
-
 ## 2. Convert Minutes into Seconds
 
 ``` #language_fundamentals  #math #number ```
